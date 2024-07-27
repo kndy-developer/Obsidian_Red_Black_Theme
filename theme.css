@@ -1,0 +1,21 @@
+/* This is  Red and Black Dark Theme I made for Obsidian */
+
+.theme-dark {
+	--color-base-00: #000;
+	--color-base-05: #000000;
+	--color-base-10: #000000;
+	--color-base-20: #000000;
+	--color-base-25: #a00000;
+	--color-base-30: #a00000;
+	--color-base-35: #000000;
+	--color-base-40: #a00000;
+	--color-base-50: #a00000;
+	--color-base-60: #a00000
+	--color-base-70: #a00000
+	--color-base-100: #fff;
+
+	--background-primary: var(--color-base-00);
+	--background-secondary: var(--color-base-05);
+	--titlebar-background: var(--color-base-00);
+	--titlebar-background-focused: var(--color-base-10);
+}
